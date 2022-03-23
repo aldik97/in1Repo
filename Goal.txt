@@ -1,3 +1,0 @@
-Disini tempat pengelolaan & visionari dari web design untuk Shareproject.id
-1. Edit homepage utama dari shareproject.id
-2. Membuat ticketing system
